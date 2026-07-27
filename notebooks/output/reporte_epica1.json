@@ -1,0 +1,59 @@
+{
+  "epic": "1",
+  "hu_1_1": {
+    "total_documents": 3669,
+    "by_type": {
+      ".pdf": 3457,
+      ".docx": 190,
+      ".xlsx": 21,
+      ".zip": 1
+    },
+    "scanned_pdfs": 22,
+    "duplicates": 655,
+    "duplicate_documents": 1570
+  },
+  "hu_1_2": {
+    "sample_size": 50,
+    "findings": {
+      "Email": 77,
+      "Tel\u00e9fono": 382,
+      "IBAN": 13,
+      "DNI/NIE": 3,
+      "CUPS": 2
+    },
+    "sample_files": {
+      "Email": [
+        "22e478c8-8649-4e1d-afd4-25607d98a5b1ALRE016 just_registro_09-12-24.pdf",
+        "2f038919-c0fa-4bef-8773-881e11de96c3IMS333_CEE_V1.pdf",
+        "456cc0b8-864f-4fe3-b6ca-66057419901dDelta B6 3A_CEE_V1.pdf"
+      ],
+      "Tel\u00e9fono": [
+        "22e478c8-8649-4e1d-afd4-25607d98a5b1ALRE016 just_registro_09-12-24.pdf",
+        "2f038919-c0fa-4bef-8773-881e11de96c3IMS333_CEE_V1.pdf",
+        "456cc0b8-864f-4fe3-b6ca-66057419901dDelta B6 3A_CEE_V1.pdf"
+      ],
+      "IBAN": [
+        "7d917a52-ddb7-40ce-b4e5-33ad3a2170951. LRE341 CIE fd.pdf",
+        "4bdc6909-bb69-42e9-9ff1-d790f162f34dANEXO V RELLENO C287.pdf",
+        "419d029f-697e-47c4-9e26-2b5d394fc710ANEXO V RELLENO-2.pdf"
+      ],
+      "DNI/NIE": [
+        "4e445bcd-581b-4773-ba90-488604312b4e8.2. Solicitud Subvenci\u00f3n.pdf",
+        "c44b0699-a928-427f-b9c1-166123b602fa8.2. Solicitud Subvenci\u00f3n.pdf"
+      ],
+      "CUPS": [
+        "4e445bcd-581b-4773-ba90-488604312b4e8.2. Solicitud Subvenci\u00f3n.pdf",
+        "c44b0699-a928-427f-b9c1-166123b602fa8.2. Solicitud Subvenci\u00f3n.pdf"
+      ]
+    }
+  },
+  "hu_1_3": {
+    "strategies": {
+      "PyMuPDF": 3435,
+      "python-docx": 190,
+      "openpyxl": 21,
+      "PyMuPDF + OCR": 22,
+      "Manual": 1
+    }
+  }
+}

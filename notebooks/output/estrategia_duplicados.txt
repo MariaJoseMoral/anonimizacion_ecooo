@@ -1,0 +1,32 @@
+
+ESTRATEGIA DE MANEJO DE DUPLICADOS
+====================================
+
+1. IDENTIFICACIÓN
+   - Se identificaron 655 grupos de duplicados
+   - 1570 archivos duplicados
+   - Redundancia total: 615.66 MB
+
+2. ORGANIZACIÓN
+   - Carpeta: duplicados/
+   - Estructura: duplicados/[hash_8_chars]/[archivos]
+   - Permite análisis y auditoría de duplicados
+
+3. ANONIMIZACIÓN
+   OPCIÓN A: Procesar una sola vez
+   - Anonimizar el archivo "primario"
+   - Copiar resultado a todas las ubicaciones originales
+   - Ventaja: Optimiza tiempo de procesamiento
+   - Ventaja: Garantiza consistencia
+
+   OPCIÓN B: Eliminar duplicados antes
+   - Eliminar duplicados de datos/
+   - Anonimizar solo archivos únicos
+   - Ventaja: Reduce tamaño total
+   - Ventaja: Acelera procesamiento masivo
+
+4. AUDITORÍA
+   - Archivos: 
+     * registro_duplicados.json (registro completo)
+     * duplicados_detallado.csv (análisis detallado)
+   - Carpeta: duplicados/ (copias para verificación)

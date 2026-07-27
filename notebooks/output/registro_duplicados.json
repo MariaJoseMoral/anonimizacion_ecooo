@@ -1,0 +1,253 @@
+{
+  "summary": {
+    "total_duplicate_groups": 655,
+    "total_duplicate_files": 1570,
+    "total_original_files": 655,
+    "total_redundancy_mb": 615.6610250473022,
+    "storage_saved_if_deduplicated_mb": 615.6610250473022
+  },
+  "top_20_redundant": [
+    {
+      "hash": "310f11ed",
+      "copies": 9,
+      "size_per_file_kb": 973.5693359375,
+      "total_redundancy_kb": 7788.5546875,
+      "files": [
+        "a532fa55-6edd-4c05-9724-dd046d3cc9b24. DR T\u00e9cnico-2-4.pdf",
+        "977be360-cdb3-4e97-b625-efd154d083514. DR T\u00e9cnico-2-4.pdf",
+        "fef0a85d-af9a-4977-8f5d-89ab818ece724. DR T\u00e9cnico-2-4.pdf",
+        "b88ca0b6-19a4-4ac3-9fa4-d125d95636474. DR T\u00e9cnico-2-4.pdf",
+        "39ab954c-abbf-46dd-94fc-4d38ad18898c4. DR T\u00e9cnico-2-4.pdf",
+        "afc69b95-be54-443c-87a3-79eca082f0a94. DR T\u00e9cnico-2-4.pdf",
+        "60c7f480-6ac5-480a-885f-fa7dbfa514e34. DR T\u00e9cnico-2-4.pdf",
+        "38c26d94-0e28-403d-9cbf-7f4d5336ac7e4. DR T\u00e9cnico-2-4.pdf",
+        "fd37350c-a469-4674-9628-c7c92d4702964. DR T\u00e9cnico-2-4.pdf"
+      ]
+    },
+    {
+      "hash": "45c46152",
+      "copies": 8,
+      "size_per_file_kb": 992.7392578125,
+      "total_redundancy_kb": 6949.1748046875,
+      "files": [
+        "fb6e5b17-49bd-470f-8b17-c0ffac5ffc184. DR T\u00e9cnico-2-4.pdf",
+        "38acb9d2-eee4-4cba-9c81-466e033bac224. DR T\u00e9cnico-2-4.pdf",
+        "c7a72a36-ab03-46d2-a72c-e7f8a0a0707c4. DR T\u00e9cnico-2-4.pdf",
+        "9c96f221-d9c8-43d1-977c-87602aa1e6e24. DR T\u00e9cnico-2-4.pdf",
+        "bea2b49e-7e93-4c5c-a03a-17d75de45c014. DR T\u00e9cnico-2-4.pdf",
+        "cc6e74f0-87c4-449f-b964-cfd45d86c6c94. DR T\u00e9cnico-2-4.pdf",
+        "d17aaaba-5456-4682-abba-3250a7b77aac4. DR T\u00e9cnico-2-4.pdf",
+        "581d8dd5-a388-4458-9b4c-7249fa2fa7754. DR T\u00e9cnico-2-4.pdf"
+      ]
+    },
+    {
+      "hash": "a4a2973f",
+      "copies": 5,
+      "size_per_file_kb": 1386.7900390625,
+      "total_redundancy_kb": 5547.16015625,
+      "files": [
+        "89424c6e-4e3c-4c5d-9d1c-9f726b58e0f42. Solicitud_CIE_MTD_Anexo.pdf",
+        "1e1b4baf-2bc0-4281-a04b-828f0a7468882. Solicitud_CIE_MTD_Anexo.pdf",
+        "bf3e5a0f-84a7-4b7c-b013-875f3260156b2. Solicitud_CIE_MTD_Anexo.pdf",
+        "ca26d475-dddc-473e-872f-498784c2c5132. Solicitud_CIE_MTD_Anexo.pdf",
+        "4d59b524-8437-4521-9378-069f1a13f5e12. Solicitud_CIE_MTD_Anexo.pdf"
+      ]
+    },
+    {
+      "hash": "025fc8b9",
+      "copies": 2,
+      "size_per_file_kb": 5356.0458984375,
+      "total_redundancy_kb": 5356.0458984375,
+      "files": [
+        "f9ab4f0a-d8ac-4a6e-bac3-83683bcfcf9b2. MTD FD.pdf",
+        "83af1786-323f-4aec-9f73-3c004b28d74c2. MTD FD.pdf"
+      ]
+    },
+    {
+      "hash": "2e260638",
+      "copies": 2,
+      "size_per_file_kb": 5339.6611328125,
+      "total_redundancy_kb": 5339.6611328125,
+      "files": [
+        "76ca140f-216c-4283-88a6-2fe035e1dbea2. MTD FD.pdf",
+        "2e00b9df-5421-4711-a783-22b7c6ac9ea22. MTD FD.pdf"
+      ]
+    },
+    {
+      "hash": "36237f52",
+      "copies": 2,
+      "size_per_file_kb": 4899.302734375,
+      "total_redundancy_kb": 4899.302734375,
+      "files": [
+        "122199b3-19b0-4503-8d61-3698475474d9J01. Informe justificativo completo.pdf",
+        "60bc0afd-39c7-427e-bcb1-14a02aa766b1J01. Informe justificativo completo.pdf"
+      ]
+    },
+    {
+      "hash": "329d68b5",
+      "copies": 2,
+      "size_per_file_kb": 4866.1904296875,
+      "total_redundancy_kb": 4866.1904296875,
+      "files": [
+        "a50cefe7-0fb1-4ebe-b33e-ccc3b08d4919ims2029.pdf",
+        "a4c2b50b-0982-454c-99d8-513f580523dfims2029.pdf"
+      ]
+    },
+    {
+      "hash": "7287948a",
+      "copies": 4,
+      "size_per_file_kb": 1613.3212890625,
+      "total_redundancy_kb": 4839.9638671875,
+      "files": [
+        "52b160fb-cb2c-47d1-a6fb-60dc8a5d815d1. Solicitud_coope_fase 2.pdf",
+        "f1d190d2-fc91-4c28-87af-9db2e1e883a81. Solicitud_coope_fase 2.pdf",
+        "940639c6-4988-4d51-82ae-af970896364d1. Solicitud_coope_fase 2.pdf",
+        "3b3cb7dc-480e-4d84-b46a-cf084eada0771. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "1e170b8c",
+      "copies": 4,
+      "size_per_file_kb": 1612.99609375,
+      "total_redundancy_kb": 4838.98828125,
+      "files": [
+        "69456168-b604-4cd2-826a-696069fc28631. Solicitud_coope_fase 2.pdf",
+        "b70494f5-e4e2-4ce4-9965-75a10c25d9e11. Solicitud_coope_fase 2.pdf",
+        "6de385c7-600e-4cb9-9698-f89a704441241. Solicitud_coope_fase 2.pdf",
+        "4b1568e6-29ef-40db-ada2-9f518e3c9be41. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "a351abcc",
+      "copies": 4,
+      "size_per_file_kb": 1612.931640625,
+      "total_redundancy_kb": 4838.794921875,
+      "files": [
+        "04c764d5-e7e5-43da-a0ae-8957eb9c55291. Solicitud_coope_fase 2.pdf",
+        "d59bf400-161d-453c-9670-53f2185e9d851. Solicitud_coope_fase 2.pdf",
+        "fd99e8da-acad-495e-951d-9237a9a68ab51. Solicitud_coope_fase 2.pdf",
+        "6e775f25-8a43-4a2b-bb8c-e6c89ff8cbf91. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "19f06c04",
+      "copies": 4,
+      "size_per_file_kb": 1612.9228515625,
+      "total_redundancy_kb": 4838.7685546875,
+      "files": [
+        "81de589f-5494-47fc-9e00-9d14f227b8fe1. Solicitud_coope_fase 2.pdf",
+        "b3285c2b-830d-4a53-81b0-cc74cbb40ddb1. Solicitud_coope_fase 2.pdf",
+        "656d75b5-7249-46cc-8693-452b43910ef21. Solicitud_coope_fase 2.pdf",
+        "5b6e1bd1-dd0d-4015-b9fd-75960754a15b1. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "93dffb4a",
+      "copies": 4,
+      "size_per_file_kb": 1612.7392578125,
+      "total_redundancy_kb": 4838.2177734375,
+      "files": [
+        "1335932d-7b20-48ef-9c7e-a7b123cfefca1. Solicitud_coope_fase 2.pdf",
+        "abfe89cd-adb7-454c-822a-fc4f96d3da7c1. Solicitud_coope_fase 2.pdf",
+        "d65f79f4-96bc-4a44-8eaa-16e1cc64a18f1. Solicitud_coope_fase 2.pdf",
+        "10b4b227-0571-41e4-899c-3548dff822251. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "6cec6eae",
+      "copies": 4,
+      "size_per_file_kb": 1612.6875,
+      "total_redundancy_kb": 4838.0625,
+      "files": [
+        "c8dc3081-3065-4a1e-85bd-de0db0907f531. Solicitud_coope_fase 2.pdf",
+        "fbdf0b16-a7ad-450c-93bc-0552084dc94d1. Solicitud_coope_fase 2.pdf",
+        "9d109190-24ac-427e-9ffb-00ee404c537b1. Solicitud_coope_fase 2.pdf",
+        "91273e78-feb9-49e5-92e5-5b7c13bbe4f81. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "11cc5736",
+      "copies": 4,
+      "size_per_file_kb": 1612.6796875,
+      "total_redundancy_kb": 4838.0390625,
+      "files": [
+        "6c5b99c1-8221-4171-81ba-3f36d3bfaa531. Solicitud_coope_fase 2.pdf",
+        "aaf0d124-fef4-435c-ba9e-d250c480b4951. Solicitud_coope_fase 2.pdf",
+        "fac435fc-80a1-4d6a-b4c1-0d718985120a1. Solicitud_coope_fase 2.pdf",
+        "ea873fcc-2b09-4242-bd3d-d395168562121. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "140bb056",
+      "copies": 4,
+      "size_per_file_kb": 1612.6611328125,
+      "total_redundancy_kb": 4837.9833984375,
+      "files": [
+        "da28a6c8-4a06-4954-9599-4229989a891d1. Solicitud_coope_fase 2.pdf",
+        "ac416e18-22af-4caf-aae5-a2db8375d00b1. Solicitud_coope_fase 2.pdf",
+        "6a3d9893-4c53-42c2-85f1-0d55969e7cf11. Solicitud_coope_fase 2.pdf",
+        "ccff2834-abc0-44de-b9da-f63ac97e16311. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "645e3be7",
+      "copies": 4,
+      "size_per_file_kb": 1612.625,
+      "total_redundancy_kb": 4837.875,
+      "files": [
+        "94835412-df34-412b-b6dd-ac916d43f8641. Solicitud_coope_fase 2.pdf",
+        "983b6050-b0e0-4870-a1e7-3c3b405ef73d1. Solicitud_coope_fase 2.pdf",
+        "88c4c00f-5cf1-4661-b8ea-551c58b27dd01. Solicitud_coope_fase 2.pdf",
+        "03184753-0125-456e-82b0-613f75263f061. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "871cc509",
+      "copies": 4,
+      "size_per_file_kb": 1612.611328125,
+      "total_redundancy_kb": 4837.833984375,
+      "files": [
+        "1936ca3d-dd35-4c05-a540-a378b42f56a41. Solicitud_coope_fase 2.pdf",
+        "f08d6f2b-c010-44c9-9b0a-a2457d89fbdc1. Solicitud_coope_fase 2.pdf",
+        "eabca132-1ce5-4518-9a6b-475987b346631. Solicitud_coope_fase 2.pdf",
+        "0bcdf2cc-51ec-44a1-805a-f2b63824c92f1. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "174bbc84",
+      "copies": 4,
+      "size_per_file_kb": 1612.384765625,
+      "total_redundancy_kb": 4837.154296875,
+      "files": [
+        "208af58a-0d1b-4981-8d64-72a5dfd2ccd51. Solicitud_coope_fase 2.pdf",
+        "68a7cc3e-3ce0-46f2-a8e8-e8122a85f4061. Solicitud_coope_fase 2.pdf",
+        "b78c2894-cbf6-4063-ae2b-da26441306eb1. Solicitud_coope_fase 2.pdf",
+        "350c4730-0671-4daa-a5e7-4eb8e3416b821. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "d15bde77",
+      "copies": 4,
+      "size_per_file_kb": 1612.3603515625,
+      "total_redundancy_kb": 4837.0810546875,
+      "files": [
+        "9f015eb0-dfab-46b5-bc1b-993ca72098521. Solicitud_coope_fase 2.pdf",
+        "315405f6-8669-4be9-8bc8-78eef35881221. Solicitud_coope_fase 2.pdf",
+        "f4a3927c-ace1-4e0f-92bc-5a77711461991. Solicitud_coope_fase 2.pdf",
+        "6d45bf6f-34f3-4db6-9776-9d441facaaa91. Solicitud_coope_fase 2.pdf"
+      ]
+    },
+    {
+      "hash": "400672c5",
+      "copies": 4,
+      "size_per_file_kb": 1612.294921875,
+      "total_redundancy_kb": 4836.884765625,
+      "files": [
+        "c0245659-9531-4a2f-b711-e07d8d54dbfa1. Solicitud_coope_fase 2.pdf",
+        "5fc8a61e-d8e0-44b5-9e84-450a2e7f3f2f1. Solicitud_coope_fase 2.pdf",
+        "716925c6-9637-44b2-8e36-addc347a57791. Solicitud_coope_fase 2.pdf",
+        "e82cb476-9c49-490d-8ed2-50e14dac75781. Solicitud_coope_fase 2.pdf"
+      ]
+    }
+  ]
+}
